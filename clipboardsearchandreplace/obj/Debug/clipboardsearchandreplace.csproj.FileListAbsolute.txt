@@ -1,0 +1,8 @@
+c:\users\harvey\documents\visual studio 2015\Projects\clipboardsearchandreplace\clipboardsearchandreplace\bin\Debug\clipboardsearchandreplace.exe.config
+c:\users\harvey\documents\visual studio 2015\Projects\clipboardsearchandreplace\clipboardsearchandreplace\bin\Debug\clipboardsearchandreplace.exe
+c:\users\harvey\documents\visual studio 2015\Projects\clipboardsearchandreplace\clipboardsearchandreplace\bin\Debug\clipboardsearchandreplace.pdb
+c:\users\harvey\documents\visual studio 2015\Projects\clipboardsearchandreplace\clipboardsearchandreplace\obj\Debug\clipboardsearchandreplace.Form1.resources
+c:\users\harvey\documents\visual studio 2015\Projects\clipboardsearchandreplace\clipboardsearchandreplace\obj\Debug\clipboardsearchandreplace.Properties.Resources.resources
+c:\users\harvey\documents\visual studio 2015\Projects\clipboardsearchandreplace\clipboardsearchandreplace\obj\Debug\clipboardsearchandreplace.csproj.GenerateResource.Cache
+c:\users\harvey\documents\visual studio 2015\Projects\clipboardsearchandreplace\clipboardsearchandreplace\obj\Debug\clipboardsearchandreplace.exe
+c:\users\harvey\documents\visual studio 2015\Projects\clipboardsearchandreplace\clipboardsearchandreplace\obj\Debug\clipboardsearchandreplace.pdb
